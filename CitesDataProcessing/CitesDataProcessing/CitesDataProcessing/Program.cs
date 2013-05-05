@@ -15,7 +15,7 @@ namespace CitesDataProcessing
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new QuerySpecies());
+            Application.Run(new MainFrom());
         }
     }
 }
